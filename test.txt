@@ -1,0 +1,19 @@
+Reading config: config.yaml
+######## Execute api test: /gittleman/aliases/HIVE-3400
+http://10.125.28.52:8668/gittleman/aliases/HIVE-3400
+http://10.125.29.146:8668/gittleman/aliases/HIVE-3400
+
+######## Execute api test: /gittleman/aliases/HIVE-3985
+http://10.125.28.52:8668/gittleman/aliases/HIVE-3985
+http://10.125.29.146:8668/gittleman/aliases/HIVE-3985
+
+######## Execute api test: /gittleman/aliases/HIVE-4019
+http://10.125.28.52:8668/gittleman/aliases/HIVE-4019
+http://10.125.29.146:8668/gittleman/aliases/HIVE-4019
+
+######## Execute api test: /gittleman/aliases/HADOOP-9095
+http://10.125.28.52:8668/gittleman/aliases/HADOOP-9095
+http://10.125.29.146:8668/gittleman/aliases/HADOOP-9095
+
+######## Execute api test: /gittleman/tickets/hive?branch=HDP-2.6.5.361
+http://10.125.28.52:8668/gittleman/tickets/hive?branch=HDP-2.6.5.361
